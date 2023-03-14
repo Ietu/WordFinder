@@ -3,6 +3,6 @@ English word finder, finds all possible VALID words WITH DEFINITIONS made up of 
 
 Can search for single number length words, use a range eg. 4-6 or leave empty to show all lengths.
 
-Currently a bit slow with more than 300 words
+Currently a bit slow when output is more than 300 words because of fetching the definitions.
 
 TODO: Multiprocessing for over 300 words.
