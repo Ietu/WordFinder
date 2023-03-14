@@ -1,0 +1,5 @@
+requests==2.27.1
+nltk==3.6.3
+tqdm==4.62.3
+beautifulsoup4==4.9.3
+rich==10.12.0
