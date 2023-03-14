@@ -9,6 +9,6 @@ Input characters like: abcdeopx
 
 TODO: Multiprocessing for over 300 words.
 
-![bff673eb1c4598ed36e4f5bcde121cc5](https://user-images.githubusercontent.com/54209182/225165224-de387934-d382-4282-93ed-88cd311b457a.png)
-
 Output of letters: abcdef, all lengths and definitions == Y
+
+![bff673eb1c4598ed36e4f5bcde121cc5](https://user-images.githubusercontent.com/54209182/225165224-de387934-d382-4282-93ed-88cd311b457a.png)
