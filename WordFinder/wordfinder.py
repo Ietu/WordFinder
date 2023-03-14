@@ -1,6 +1,7 @@
 import requests
 import time
 import nltk
+import os
 from rich.progress import Progress, track
 from bs4 import BeautifulSoup
 from tqdm import tqdm 
@@ -15,6 +16,8 @@ RESA = '\033[0m' #RESET_ALL
 
 #nltk.download('words')
 #filter words of length 3 and above, just set number lower if you want 1 and 2 letter words
+
+os.system('cls')
 
 with open('words.txt', 'r') as file:
     english_words = [line.strip() for line in file]
