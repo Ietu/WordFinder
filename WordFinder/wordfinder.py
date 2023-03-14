@@ -24,7 +24,7 @@ with open('words.txt', 'r') as file:
 
 #english_words = set(word.lower() for word in words.words() if len(word) >= 3)
 
-letters = input(f"{cyan}> {RESA}Enter letters: ")
+letters = input(f"{cyan}> {RESA}Enter letters e.g. (abcdefiopx): ")
 word_length_range = input(f"{cyan}> {RESA}Enter range of word lengths (e.g. '5' or '4-6', leave blank for all): ")
 
 if word_length_range:
